@@ -1,0 +1,6 @@
+{
+  "name": "Jehlum Sense AI",
+  "description": "AI-powered farming assistant for Jammu & Kashmir and beyond, founded by Basim Abdullah Zargar and Moosa Bilal Zargar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
